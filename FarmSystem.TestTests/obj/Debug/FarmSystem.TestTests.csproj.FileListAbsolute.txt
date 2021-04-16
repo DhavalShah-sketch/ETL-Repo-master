@@ -1,0 +1,14 @@
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\FarmSystem.TestTests.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\FarmSystem.TestTests.pdb
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\FarmSystem.Test1.exe
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\FarmSystem.Test1.pdb
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\bin\Debug\FarmSystem.Test1.exe.config
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\obj\Debug\FarmSystem.TestTests.csprojAssemblyReference.cache
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\obj\Debug\FarmSystem.TestTests.csproj.CoreCompileInputs.cache
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\obj\Debug\FarmSystem.TestTests.csproj.CopyComplete
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\obj\Debug\FarmSystem.TestTests.dll
+D:\Dhaval\misc\March 2021-Jobs\Emydex-remote DevEx dev role\ETL-Repo-master\FarmSystem.TestTests\obj\Debug\FarmSystem.TestTests.pdb
